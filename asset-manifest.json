@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/login-form-useEffect-contextHook/static/css/main.efd06b14.chunk.css",
+    "main.js": "/login-form-useEffect-contextHook/static/js/main.41383719.chunk.js",
+    "main.js.map": "/login-form-useEffect-contextHook/static/js/main.41383719.chunk.js.map",
+    "runtime-main.js": "/login-form-useEffect-contextHook/static/js/runtime-main.3778be3e.js",
+    "runtime-main.js.map": "/login-form-useEffect-contextHook/static/js/runtime-main.3778be3e.js.map",
+    "static/js/2.5989d96b.chunk.js": "/login-form-useEffect-contextHook/static/js/2.5989d96b.chunk.js",
+    "static/js/2.5989d96b.chunk.js.map": "/login-form-useEffect-contextHook/static/js/2.5989d96b.chunk.js.map",
+    "index.html": "/login-form-useEffect-contextHook/index.html",
+    "static/css/main.efd06b14.chunk.css.map": "/login-form-useEffect-contextHook/static/css/main.efd06b14.chunk.css.map",
+    "static/js/2.5989d96b.chunk.js.LICENSE.txt": "/login-form-useEffect-contextHook/static/js/2.5989d96b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3778be3e.js",
+    "static/js/2.5989d96b.chunk.js",
+    "static/css/main.efd06b14.chunk.css",
+    "static/js/main.41383719.chunk.js"
+  ]
+}
